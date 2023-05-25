@@ -13,7 +13,7 @@ A la fin de chaque partie, la liste des 10 meilleurs joueurs sera affichée.
 
 Spécificités d'utilisation :
 
-Pour lancer le jeu, appuyer sur run.
+Pour lancer le jeu, appuyer sur RUN.
 A chaque saisi d'utilisateur, appuyer sur entrée.
 
 
