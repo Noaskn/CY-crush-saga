@@ -10,6 +10,13 @@ Vous pouvez décider à tout moment d’arrêter votre partie et/ou de la sauveg
 Une seule sauvegarde est possible, vous pouvez reprendre la partie sauvegardée en début de jeu.
 A la fin de chaque partie, la liste des 10 meilleurs joueurs sera affichée.
 
+
+Spécificités d'utilisation :
+
+Pour lancer le jeu, appuyer sur run.
+A chaque saisi d'utilisateur, appuyer sur entrée.
+
+
 But du jeu :
 
 Le but du jeu est simple, il faut faire le plus grand score possible.
