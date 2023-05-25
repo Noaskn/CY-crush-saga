@@ -308,7 +308,8 @@ int main() {
       
     // S'il n'y a pas de partie sauvegardée
     else if(load_game(grid,&score,&rows,&cols,&num_symbols,&time_used) == 0){
-
+      printf("Aucune partie sauvegardée\n");
+      
       // Sortie du jeu
       exit(7);
     }
