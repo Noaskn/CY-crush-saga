@@ -30,7 +30,6 @@ int load_game(char grid[MAX_SIZE][MAX_SIZE],int *score,int *rows,int *cols,int *
   // Ouvre le fichier en mode lecture
   FILE *file = fopen(SAVE_FILE, "r");
   if (file == NULL) {
-    printf("Aucune partie sauvegardée\n");
     return 0;
   }
 
